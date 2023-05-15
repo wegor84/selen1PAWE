@@ -7,7 +7,7 @@ public class TestSearch extends TestBase {
 
 
     @Test
-    public void shouldSearchForImages() throws InterruptedException {
+    public void shouldSearchForImagesOnGoogle() throws InterruptedException {
 
         mainPage.clickRejectEverythingButton();
         mainPage.searchForText("PKO");
