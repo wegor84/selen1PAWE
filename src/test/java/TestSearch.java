@@ -1,4 +1,5 @@
 import org.junit.Test;
+import test1.TestBase;
 
 public class TestSearch extends TestBase {
 
